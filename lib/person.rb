@@ -3,3 +3,5 @@ class Person
     @name = name
   end
 end
+
+#  sets the name of the person in an instance variable @name
